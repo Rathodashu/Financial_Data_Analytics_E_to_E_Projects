@@ -1,1 +1,1 @@
-# Financial_Data_Analytics_E_to_E_Projects
+# Financial_Data_Analytics_End_to_End_Projects

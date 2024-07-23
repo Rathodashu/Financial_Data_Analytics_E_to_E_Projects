@@ -1,9 +1,10 @@
 # Financial_Data_Analytics_End_to_End_Projects
 
 **Summary of Findings :-**
+
 **a) Distribution Insights:-**
 
-** Market capitalization and quarterly sales follow a certain distribution, with a few companies having very high values compared to others.
+* Market capitalization and quarterly sales follow a certain distribution, with a few companies having very high values compared to others.
 
 **b) Relationship Between Attributes:-**
 
